@@ -1,0 +1,95 @@
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 300%;
+  padding-left: 110px;
+}
+
+
+nav ul li {
+    display: block;
+    list-style: none;
+    padding: 15px;
+}
+
+ul {
+  margin-left: 70px;
+}
+
+#home {
+  width: 200px;
+  background-color: #fff;
+  border: 1px;
+}
+
+#about {
+  width: 310px;
+  background-color: #fff;
+}
+
+#portfolio {
+  width: 270px;
+  background-color: #fff;
+}
+
+#contact {
+  width: 150px;
+  background-color: #fff;
+}
+
+li {
+  padding: 15px;
+  margin: 10px;
+}
+
+header {
+  margin-top: 0px;
+  margin-bottom: 150px;
+}
+
+.menu:link {
+  background-size: 15px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.menu:visited {
+background-image: url ('../img/bercak.jpg');
+}
+
+.menu:hover {
+  background-color: yellow;
+}
+
+body {
+
+  background: url('../img/img-back.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 30px;
+}
+
+.container {
+    background-color: #014250;
+    padding: 10px 10px 0px 10px ;
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+  font-color: #fff;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+}
+
+p {
+  width: 100%;
+  padding: 10px 0px;
+  font-size: 14px;
+  text-align: justify;
+}
