@@ -50,10 +50,10 @@ li {
   margin: 10px;
 }
 
-header {
+/*header {
   margin-top: 0px;
   margin-bottom: 150px;
-}
+}*/
 
 .menu:link {
   text-decoration: none;
@@ -71,14 +71,13 @@ body {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
-  top: 30px;
+  position: static;
   z-index: 1;
 }
 
 #foto {
   position:relative;
-  bottom: 450px;
+  bottom: 300px;
   left: 500px;
   border-radius: 100%;
   z-index: 1.5;
